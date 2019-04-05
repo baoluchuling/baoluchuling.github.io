@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>BLCL</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://baoluchuling.com/"/>
+  <updated>2019-04-05T14:02:41.710Z</updated>
+  <id>http://baoluchuling.com/</id>
+  
+  <author>
+    <name>baoluchuling</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://baoluchuling.com/2019/04/05/Hello%20World/"/>
+    <id>http://baoluchuling.com/2019/04/05/Hello World/</id>
+    <published>2019-04-05T10:21:09.000Z</published>
+    <updated>2019-04-05T14:02:41.710Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
